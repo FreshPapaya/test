@@ -2,4 +2,8 @@ FIRST!
 
 MODIFICATIONS!
 
+<<<<<<< HEAD
 2nd BRANCH
+=======
+BETTER MODIFS
+>>>>>>> Admin2
